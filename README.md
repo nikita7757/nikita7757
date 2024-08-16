@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm NIKITA SHEDAGE</h1>
 <h3 align="center">A passionate frontend developer & java developer</h3>
 
-- 🌱 I’m currently learning **react js, node js**
 
 - 📫 How to reach me **nikitashedage2004@gmail.com**
 
