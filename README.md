@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 - 📫 How to reach me **nikitashedage2004@gmail.com**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="[[https://linkedin.com/in/nikita s](https://www.linkedin.com/in/nikita-s-927889311/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/nikita-s-927889311/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita s" height="30" width="40" /></a>
